@@ -42,10 +42,11 @@ Belirtilen işlemlerde sorun yok ise çıktı olarak şu bilgileri göreceksiniz
 
 İsmet Said Çalık 
 <ismetsaid.calik@pardus.net.tr>
+
 http://calik.me
 
 Mehmet Nuri Öztürk
  <mehmetnuri.ozturk@pardus.net.tr>
  
 Erdoğan Bilgici 
-<erdogan.bilgici@pardus.net.tr>
+<destek@linuxcoxumleri.com>
