@@ -7,12 +7,16 @@ Gerekli Donanımlar
  - Raspberry Pi (Pardus ARM Kurulu olarak)
  - WiringPi [(Kurulum Sayfası)](http://forum.pardus.net.tr/index.php?topic=3856)
  - DHT11 Sıcaklık ve Nem Sensörü
+
 ![enter image description here](http://docs.gadgetkeeper.com/download/attachments/7700673/dht11.jpg?version=1&modificationDate=1395550552000&api=v2&effects=border-simple,shadow-kn)
  - 4.7K veya 10K Direnç
+
 ![enter image description here](http://docs.gadgetkeeper.com/download/attachments/7700673/4.7k.jpg?version=1&modificationDate=1395550878000&api=v2&effects=border-simple,shadow-kn)
  - Breadboard
+
 ![enter image description here](http://docs.gadgetkeeper.com/download/attachments/7700673/breadboard.jpg?version=1&modificationDate=1395551116000&api=v2&effects=border-simple,shadow-kn)
  - Birkaç kablo
+
 ![enter image description here](http://docs.gadgetkeeper.com/download/attachments/7700673/jumper%20wires.jpg?version=1&modificationDate=1395551224000&api=v2&effects=border-simple,shadow-kn)
 
 Bu proje IoT Projesi olup, Pardus ARM ekibi tarafından geliştirilmiştir. Bu proje sonunda ortamın sıcaklık ve nem bilgisini sensörden algılayabileceğiz.
